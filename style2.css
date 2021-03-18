@@ -1,0 +1,63 @@
+*
+{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+.jumbotron{
+    background-color:rgb(55, 55, 214);
+    border-radius: 30px;
+    padding: 10px 40px;
+    margin-top: 10px; 
+}
+
+.fiveDay-forecast{
+    margin: 5px;
+    display: inline-block;
+}
+
+#wordFiveDayForecast{
+    padding: 2px 0 0 13px;
+}
+
+#search-form{
+    padding-bottom: 12px;
+    
+}
+#find-city{
+    margin-top: 5px;
+    border-radius: 8px;
+    padding: 7px;
+    background-color: rgb(55, 55, 214);
+    color: white;
+}
+
+.fiveDays{
+    background-color: rgb(55, 55, 214);
+    margin: -5px 5px 5px 5px;
+    width: 173px;
+    color: white;
+    
+}
+.searchBackGround{
+    padding: 1px;
+
+}
+.fiveDayRow{
+    padding-bottom: 20px;
+}
+
+#tempToday{
+    position: relative;
+    margin-top: -30px;
+}
+
+#search-input{
+    width: 100%;
+}
+.card-body
+{
+    padding: -30px;
+}
+
+
